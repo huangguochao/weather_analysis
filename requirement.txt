@@ -1,0 +1,7 @@
+#pip install requests matplotlib numpy
+
+#使用模拟数据测试
+#python main.py --mock --export --visualize
+
+#使用自己的API进行测试,config.ini 中添加你的API密钥
+#python main.py --export --visualize
